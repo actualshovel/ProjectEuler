@@ -23,8 +23,7 @@ static void Main(string[] args)
             }
 
         }
-        Console.WriteLine("Highest palindrom made from the product of 2 3 digit numbers is: " + max);
-        
+        Console.WriteLine(max); //answer: 906609
         Console.ReadLine();
     }
 
